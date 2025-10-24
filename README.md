@@ -1,2 +1,2 @@
 # demo
-DEMO for GIT &amp; GITHUB acc
+DEMO for GIT &amp; GITHUB.
